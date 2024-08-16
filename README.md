@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mding022
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on software projects
 - 📫 Reach me by email at mding022@uottawa.ca
 
 <!---
