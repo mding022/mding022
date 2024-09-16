@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mding022
+- 👋 Hi, I’m Miller Ding
+- 🏫 University of Ottawa
 - 📫 Reach me by email at mding022@uottawa.ca
 
 <!---
