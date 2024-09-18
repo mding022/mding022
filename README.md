@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miller Ding</h1>
 
 
-- 🔭 I’m currently located in Ottawa, Ontario.
+- 🔭 I’m currently located in **Ottawa, Ontario**.
 
 - 📚 I'm in my **2nd year** at the **University of Ottawa** studying Computer Science, with a minor in Economics.
 
