@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Miller Ding</h1>
 
-- 🔭 I’m currently located at the **University of Ottawa**
+- 🔭 I’m currently located in Ottawa, Ontario.
 
-- 👨‍💻 All of my projects are available at [https://millerding.com](https://millerding.com)
+- 📚 I'm in my **2nd year** at the **University of Ottawa** studying Computer Science, with a minor in Economics.
+
+- 👨‍💻 Most of my projects, relevant work experience, and resume are available at [https://millerding.com](https://millerding.com)
 
 - 📫 You can reach me at **mding022@uottawa.ca**
 
