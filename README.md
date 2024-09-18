@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miller Ding</h1>
+
 - 🔭 I’m currently located at the University of Ottawa
 
 - 👨‍💻 All of my projects are available at [https://millerding.com](https://millerding.com)
