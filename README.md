@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✋😃, I'm Miller Ding</h1>
+<h1 align="center">Miller Ding</h1>
 
 
 - 🔭 I’m currently located in **Ottawa, Ontario**.
