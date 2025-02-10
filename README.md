@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Miller Ding</h1>
 
+<h2 align="left">Miller Ding</h2>
 
-- 🔭 I’m currently located in **Ottawa, Ontario**.
+Hey, I'm Miller. I'm a second year computer science student at the University of Ottawa. I love creating and implementing unique and modern **UI/UX** and **web designs**. I'm also proficient in **backend development** with industry-standard technologies, building scalable systems, robust APIs, and web infrastructure. 
 
-- 📚 I'm in my **2nd year** at the **University of Ottawa** studying Computer Science, with a minor in Economics.
-
-- 👨‍💻 All of my projects, relevant work experience, and resume are available at [https://millerding.com](https://millerding.com)
+Check out my website [here](https://millerding.com) for my updated projects, resume, and more!
 
 <h3 align="left">Tech Stack:</h3>
 
